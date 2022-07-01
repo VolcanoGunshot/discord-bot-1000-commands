@@ -4,7 +4,7 @@
 
 
 ### Zoob Bot
-
+asd
 Have you every thought "Hey, how many memes can be crammed into a single discord bot over the course of 4 days?"  Probably not.... But we did! 
 
 Our creation, Zoob Bot, was developed during Discord Hack Week 2019 and features over **1,000 commands**, yes, **ONE THOUSAND COMMANDS** filled with fun and cancerous memes, jokes, pop culture references, and games.
@@ -53,7 +53,7 @@ Zoob Bot was developed by Nathan Melwani, Patrick Aventino, Jinsu Hwang, and Aur
 |!getzoobbot| Invite Zoob Bot to YOUR SERVER!|
 
 |Games||
-|--|--|
+|--|--|dsa
 |!8ball @user| Ask the magic 8ball any question and get a *dank* response!|
 |!fortune @user| Get a dank fortune from the Zoob himself!|
 |!conch<"question">| The magic conch from Spongebob! Ask it your questions and get responses similar to the cartoon!|
